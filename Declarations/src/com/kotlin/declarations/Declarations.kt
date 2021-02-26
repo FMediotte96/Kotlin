@@ -30,6 +30,9 @@ fun main() {
         employee2 = Employee("Mike", 5)
     }
 
+    val names = arrayListOf("John", "Jane", "Mary")
+    println(names[1])
+
 }
 
 class Employee(var name: String, val id: Int) {

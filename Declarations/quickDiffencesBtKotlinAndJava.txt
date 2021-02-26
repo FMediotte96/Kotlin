@@ -1,0 +1,18 @@
+Differences between Kotlin and Java
+
+1. In Kotlin we don't use anymore semicolon (;)
+2. The Kotlin standard library has lot of wrappers
+3. Kotlin has the notion of hard keywords and soft keywords:
+    hard keywords are like in Java
+    soft keywords can be used in other place like as a variable name
+4. In Kotlin we can use square brackets to access elements in collections
+5. Kotlin has its own String class: https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/
+6. Kotlin doesn't distinguish between checked and unchecked exceptions, in fact the throw keyword doesn't exist in
+   Kotlin. All exceptions are unchecked so we don't have to declare them
+7. In Kotlin the ternary operator doesn't exists
+8. The normal for(int i = 0; ...) loop doesn't exists in Kotlin
+9. Kotlin doesn't have a static keyword, they are replaced by a top-level function so the concept of static
+   is still there
+10. In Kotlin there isn't new keyword
+
+
