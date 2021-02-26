@@ -13,6 +13,6 @@ Differences between Kotlin and Java
 8. The normal for(int i = 0; ...) loop doesn't exists in Kotlin
 9. Kotlin doesn't have a static keyword, they are replaced by a top-level function so the concept of static
    is still there
-10. In Kotlin there isn't new keyword
+10. In Kotlin there isn't the new keyword
 
 
