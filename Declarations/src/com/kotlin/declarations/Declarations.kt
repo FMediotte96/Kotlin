@@ -1,5 +1,7 @@
 package com.kotlin.declarations
 
+typealias EmployeeSet = Set<Employee>
+
 fun main() {
     val number = 25 //immutable is equivalent to final in Java
 
@@ -11,6 +13,8 @@ fun main() {
 
     number2 = 10
     number2 = 20
+
+    val employees: EmployeeSet
 
     //Kotlin recommend as a good practice using val whenever it possible
 
