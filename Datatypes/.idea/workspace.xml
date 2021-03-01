@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85b14dce-d38a-4ba0-be48-988e31fafd51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datatypes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/code/DummyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/datatypes/Arrays.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/datatypes/Datatypes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NullReferences/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NullReferences/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NullReferences/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NullReferences/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NullReferences/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NullReferences/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NullReferences/NullReferences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NullReferences/out/production/NullReferences/META-INF/NullReferences.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NullReferences/src/com/java/nullReferences/NullReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NullReferences/src/com/kotlin/nullReferences/NullReferences.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +83,14 @@
       <option name="presentableId" value="Default" />
       <updated>1614547918139</updated>
     </task>
+    <task id="LOCAL-00001" summary="Section 4 - Data Types and Null Reference Handling&#10;&#10;- The Builtin Data types&#10;- Arrays">
+      <created>1614555517184</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614555517185</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +103,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Section 4 - Data Types and Null Reference Handling&#10;&#10;- The Builtin Data types&#10;- Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 4 - Data Types and Null Reference Handling&#10;&#10;- The Builtin Data types&#10;- Arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
