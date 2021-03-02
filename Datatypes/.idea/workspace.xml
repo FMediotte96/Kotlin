@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85b14dce-d38a-4ba0-be48-988e31fafd51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../NullReferences/src/com/kotlin/nullReferences/NullReferences2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge1/Challenge1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/Challenge2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/src/com/kotlin/challenge/Challenge2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenge1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenge1/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenge1/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenge1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenge1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenge1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenge1/Challenge1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenge1/out/production/Challenge1/META-INF/Challenge1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenge1/src/com/kotlin/challenge1/Challenge1.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NullReferences/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NullReferences/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/datatypes/Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/datatypes/Arrays.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NullReferences/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NullReferences/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NullReferences/NullReferences.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../NullReferences/NullReferences.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NullReferences/out/production/NullReferences/META-INF/NullReferences.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../NullReferences/out/production/NullReferences/META-INF/NullReferences.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

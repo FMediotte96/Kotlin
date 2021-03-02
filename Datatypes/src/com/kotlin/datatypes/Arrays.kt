@@ -47,7 +47,7 @@ fun main() {
 
     /*  We it comes to array we can't just call Java methods that want primitive
        arrays without having to do anything special
-       We should use the array subclass for the primitive type cause we can't just use the array class.
+       We should use the array subclass for the primitive type because we can't just use the array class.
        We have to use one of the special primitive array classes in Kotlin.
        There is IntArray, ByteArray, LongArray, CharArray
    */
