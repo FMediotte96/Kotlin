@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a04a5a6d-33fc-4490-add7-1d98a8996fc3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NullReferences.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/NullReferences/META-INF/NullReferences.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/nullReferences/NullReferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/nullReferences/NullReferences.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/nullReferences/NullReferences2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Datatypes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Datatypes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NullReferences.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NullReferences.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NullReferences/META-INF/NullReferences.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NullReferences/META-INF/NullReferences.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -42,8 +37,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Declarations" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Kotlin" />
   </component>
-  <component name="RunManager" selected="Application.NullReferencesKt">
+  <component name="RunManager" selected="Application.NullReferences2Kt">
     <configuration name="NullReferences (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.nullReferences.NullReferences" />
       <module name="NullReferences" />
@@ -70,6 +67,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NullReferences2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="NullReferences" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.nullReferences.NullReferences2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NullReferencesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="NullReferences" />
       <option name="VM_PARAMETERS" />
@@ -85,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NullReferences2Kt" />
         <item itemvalue="Application.NullReferencesKt" />
         <item itemvalue="Application.NullReferences (1)" />
         <item itemvalue="Application.NullReferences" />
@@ -100,6 +111,14 @@
       <option name="presentableId" value="Default" />
       <updated>1614600623786</updated>
     </task>
+    <task id="LOCAL-00001" summary="NullReferences - Part One">
+      <created>1614602403332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614602403332</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,5 +131,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NullReferences - Part One" />
+    <option name="LAST_COMMIT_MESSAGE" value="NullReferences - Part One" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

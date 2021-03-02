@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85b14dce-d38a-4ba0-be48-988e31fafd51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../NullReferences/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NullReferences/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NullReferences/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NullReferences/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NullReferences/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NullReferences/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NullReferences/NullReferences.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NullReferences/out/production/NullReferences/META-INF/NullReferences.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NullReferences/src/com/java/nullReferences/NullReferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NullReferences/src/com/kotlin/nullReferences/NullReferences.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NullReferences/src/com/kotlin/nullReferences/NullReferences2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NullReferences/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NullReferences/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NullReferences/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NullReferences/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NullReferences/NullReferences.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../NullReferences/NullReferences.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NullReferences/out/production/NullReferences/META-INF/NullReferences.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../NullReferences/out/production/NullReferences/META-INF/NullReferences.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.ArraysKt">
     <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
@@ -103,20 +99,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Section 4 - Data Types and Null Reference Handling&#10;&#10;- The Builtin Data types&#10;- Arrays" />
     <option name="LAST_COMMIT_MESSAGE" value="Section 4 - Data Types and Null Reference Handling&#10;&#10;- The Builtin Data types&#10;- Arrays" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/com/kotlin/datatypes/Arrays.kt</url>
-          <line>40</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
