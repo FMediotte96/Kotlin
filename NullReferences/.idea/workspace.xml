@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a04a5a6d-33fc-4490-add7-1d98a8996fc3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge1/Challenge1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/Challenge2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge2/src/com/kotlin/challenge/Challenge2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenge1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenge1/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenge1/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenge1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenge1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenge1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenge1/Challenge1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenge1/out/production/Challenge1/META-INF/Challenge1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenge1/src/com/kotlin/challenge1/Challenge1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Datatypes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Datatypes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Datatypes/src/com/kotlin/datatypes/Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Datatypes/src/com/kotlin/datatypes/Arrays.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a04a5a6d-33fc-4490-add7-1d98a8996fc3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
