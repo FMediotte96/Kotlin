@@ -9,6 +9,9 @@ fun main() {
 
     val emp = Employee("John");
     println(emp.firstName)
+    //Under the covers this is calling the getter and setters
+    emp.fullTime = false
+    println(emp.fullTime)
 
     val emp2 = Employee("Joe")
     println(emp2.firstName)
@@ -73,9 +76,9 @@ fun main() {
    you need. We can assign a default value in our primary constructor. When we don't specify a fullTime value now
    instances will get the default of true. And when we do that value is used
 */
-class Employee(val firstName: String, var fullTime: Boolean = true) {
+/*class Employee(val firstName: String, var fullTime: Boolean = true) {
 
-}
+}*/
 
 // We can have secondary constructor even without a primary constructor
 class Demo {
@@ -84,4 +87,36 @@ class Demo {
     constructor() {
         dummy = "Hello"
     }
+}
+
+/*
+    Kotlin classes can only have properties, they don't have fields.
+    You can use the same access modifiers with properties as you can with classes
+    and remember thar the default is public. Kotlin creates default accessors for us also know as
+    getters and setters.
+
+    In Kotlin if we declare the property private there will be no way to modify that property from the outside
+    even using a setter and that's because the rule in Kotlin is that getters and setters have to have the
+    same visibility as the property or a less permissive visibility.
+
+    Unlike Java, in Kotlin you don't have to declare a property private to prevent it from being directly modified.
+
+    If the auto-generated accessors won't sever your needs, you can write your own. But when you write your own,
+    you have to declare the property within the class, so the moment you need your own setter or getter you can't declare
+    the property as part of a primary constructor. You have to explicitly declare the property inside the class.
+ */
+class Employee(val firstName: String, fullTime: Boolean = true) {
+
+    //Custom getter and setter has to come immediately after the property declaration
+    var fullTime = fullTime
+    get() {
+        println("Running the custom get")
+        return field //we have to refer the backing field using the field identifier
+    }
+    set(value) {
+        println("Running the custom set")
+        field = value
+    }
+
+
 }
