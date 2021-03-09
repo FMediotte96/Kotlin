@@ -37,6 +37,11 @@ fun main() {
     for (c in lotsOfCars) {
         println(c)
     }
+
+    //It looks that the upperFirstAndLast function belongs to the String class but it doesn't
+    val s = "this is all in lowercase"
+    println(s.upperFirstAndLast())
+
 }
 
 //Vararg is use for passing some number of something. We can only have one vararg parameter in a function signature
@@ -78,3 +83,16 @@ class Employee(val firstName: String) {
 data class Car(val color: String, val model: String, val year: Int) {
 
 }
+
+/*
+    Extension function let you extend any class you want to extend means you can add functions to it.
+    Instead of using a Class as Utils to use a particular function we can create the illusion of adding functions
+    to the string class. We have to declare the library where we want to include the functions like the following.
+    We've preceded the function name with what's called the receiver type
+ */
+fun String.upperFirstAndLast(): String {
+    val upperFirst = substring(0, 1).toUpperCase() + substring(1)
+    return upperFirst.substring(0, upperFirst.length - 1) +
+            upperFirst.substring(upperFirst.length - 1, upperFirst.length).toUpperCase()
+}
+
