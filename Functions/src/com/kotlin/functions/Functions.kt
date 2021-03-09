@@ -69,7 +69,7 @@ fun whatever() = 3 * 4
 
     In our functions parameters we always have to include the type, even if the compiler can infer it
  */
-fun labelMultiply(
+inline fun labelMultiply(
     operand1: Int, operand2: Int,
     label: String = "The answer is:"
 ) =
@@ -96,3 +96,9 @@ fun String.upperFirstAndLast(): String {
             upperFirst.substring(upperFirst.length - 1, upperFirst.length).toUpperCase()
 }
 
+/*
+    Inline Functions, when it's compiled its body is directly substituted for the function call
+    Inlining is often done when a function has a lambda expression for a parameter because lambdas require
+    the creation of a class and an object under the covers.
+    If we want a function to be inlined you just have to add the inline keyword and you add it before the fun keyword
+ */
