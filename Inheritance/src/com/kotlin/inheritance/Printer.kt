@@ -40,21 +40,31 @@ class SpecialLaserPrinter(modelName: String, ppm: Int) : LaserPrinter(modelName,
     You can't call a super secondary constructor if you have a primary constructor, because
     every constructor has to delegate to the primary constructor.
  */
-open class Something {
+open class Something : MySubInterface {
 
     val someProperty: String
+
+    override val number: Int = 25
 
     constructor(someParameter: String) {
         someProperty = someParameter
         println("I'm in the parent's constructor")
     }
+
+    override fun mySubFunction(num: Int): String {
+        TODO("Not yet implemented")
+    }
+
+    override fun myFunction(str: String): String {
+        TODO("Not yet implemented")
+    }
 }
 
-class SomethingElse: Something {
+class SomethingElse : Something {
 
     //This is references to the secondary constructor of Something, you can only do this if there is no
     //primary constructor
-    constructor(someOtherParameter: String): super(someOtherParameter) {
+    constructor(someOtherParameter: String) : super(someOtherParameter) {
         println("I'm in the child's constructor")
     }
 }
@@ -66,4 +76,22 @@ class SomethingElse: Something {
  */
 data class DataClass(val number: Int) {
 
+}
+
+interface MyInterface {
+
+    //At the moment this is abstract because we haven't assigned it an initial value
+    val number: Int
+    //Property initializer are not allowed in interfaces, so to do a concrete implementation
+    //we have to use a custom get
+    val number2: Int //properties in interfaces don't have backing fields
+        get() = number * 100
+
+    fun myFunction(str: String): String
+}
+
+//MySubInterface is extending MyInterface, we don't have to use the keyword open with interfaces
+interface MySubInterface : MyInterface {
+
+    fun mySubFunction(num: Int): String
 }
