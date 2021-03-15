@@ -30,7 +30,7 @@ fun main() {
     var thisIsMutable = 45
 
     //object keyword
-    wantsSomeInterface(object: SomeInterface {
+    wantsSomeInterface(object : SomeInterface {
         override fun mustImplement(num: Int): String {
             thisIsMutable++
             return "This is from mustImplement: ${num * 100}"
@@ -60,7 +60,7 @@ class SomeClass private constructor(val someString: String) {
         fun justAssign(str: String) = SomeClass(str)
 
         fun upperOrLowerCase(str: String, lowerCase: Boolean): SomeClass {
-            if(lowerCase) {
+            if (lowerCase) {
                 return SomeClass(str.toLowerCase())
             } else {
                 return SomeClass(str.toUpperCase())
@@ -85,5 +85,13 @@ enum class Department(val fullName: String, val numEmployees: Int) {
     SALES("Sales", 20);
 
     //When you add a function to an enum you have to add a semicolon after your last enum value
-    fun getDeptInfo() ="The $fullName department has $numEmployees employees"
+    fun getDeptInfo() = "The $fullName department has $numEmployees employees"
+}
+
+fun topLevel(str: String) = println("Top level function: $str")
+
+fun String.upperFirstAndLast(): String {
+    val upperFirst = substring(0, 1).toUpperCase() + substring(1)
+    return upperFirst.substring(0, upperFirst.length - 1) +
+            upperFirst.substring(upperFirst.length - 1, upperFirst.length).toUpperCase()
 }
