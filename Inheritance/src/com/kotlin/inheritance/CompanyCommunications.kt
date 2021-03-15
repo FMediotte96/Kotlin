@@ -14,6 +14,7 @@ import java.time.Year
  */
 
 fun main() {
+    topLevel("I'm private")
     println(Department.ACCOUNTING.getDeptInfo())
 
     println(CompanyCommunications.getTagLine()) //The first time we use it the object it'll create the instance
@@ -45,7 +46,8 @@ object CompanyCommunications {
     val currentYear = Year.now().value
 
     fun getTagLine() = "Our company rocks!"
-    fun getCopyrightLine() = "Copyright \u00A9 $currentYear Our Company. All rights reserved."
+    //internal -> everything within the same module should be able to use this
+    internal fun getCopyrightLine() = "Copyright \u00A9 $currentYear Our Company. All rights reserved."
 }
 
 //In Kotlin the keyword 'static' so we cannot call functions and public static members, within classes
