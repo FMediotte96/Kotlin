@@ -14,7 +14,7 @@ import java.time.Year
  */
 
 fun main() {
-    println(CompanyCommunications.getTagLIne()) //The first time we use it the object it'll create the instance
+    println(CompanyCommunications.getTagLine()) //The first time we use it the object it'll create the instance
     println(CompanyCommunications.getCopyrightLine())
 
     //Kotlin is actually smart enough to know that you want to call something in the companion object
@@ -24,13 +24,25 @@ fun main() {
     val someClass2 = SomeClass.upperOrLowerCase("this isn't the string as is", false)
     println(someClass1.someString)
     println(someClass2.someString)
+
+    var thisIsMutable = 45
+
+    //object keyword
+    wantsSomeInterface(object: SomeInterface {
+        override fun mustImplement(num: Int): String {
+            thisIsMutable++
+            return "This is from mustImplement: ${num * 100}"
+        }
+    })
+    //The object expression was able to access mutable variables which are external
+    println(thisIsMutable)
 }
 
 object CompanyCommunications {
 
     val currentYear = Year.now().value
 
-    fun getTagLIne() = "Our company rocks!"
+    fun getTagLine() = "Our company rocks!"
     fun getCopyrightLine() = "Copyright \u00A9 $currentYear Our Company. All rights reserved."
 }
 
@@ -53,4 +65,12 @@ class SomeClass private constructor(val someString: String) {
             }
         }
     }
+}
+
+interface SomeInterface {
+    fun mustImplement(num: Int): String
+}
+
+fun wantsSomeInterface(si: SomeInterface) {
+    println("Printing from wantsSomeInterface ${si.mustImplement(22)}")
 }
