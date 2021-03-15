@@ -14,6 +14,8 @@ import java.time.Year
  */
 
 fun main() {
+    println(Department.ACCOUNTING.getDeptInfo())
+
     println(CompanyCommunications.getTagLine()) //The first time we use it the object it'll create the instance
     println(CompanyCommunications.getCopyrightLine())
 
@@ -73,4 +75,15 @@ interface SomeInterface {
 
 fun wantsSomeInterface(si: SomeInterface) {
     println("Printing from wantsSomeInterface ${si.mustImplement(22)}")
+}
+
+//We use enum class to declare enums in Kotlin
+enum class Department(val fullName: String, val numEmployees: Int) {
+    HR("HumanResources", 5),
+    IT("Information Technology", 10),
+    ACCOUNTING("Accounting", 3),
+    SALES("Sales", 20);
+
+    //When you add a function to an enum you have to add a semicolon after your last enum value
+    fun getDeptInfo() ="The $fullName department has $numEmployees employees"
 }
