@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85b14dce-d38a-4ba0-be48-988e31fafd51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/Classes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/kotlin/accessmodifiers/Classes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccessModifiers/out/production/AccessModifiers/META-INF/AccessModifiers.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../AccessModifiers/out/production/AccessModifiers/META-INF/AccessModifiers.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AccessModifiers/src/com/kotlin/accessmodifiers/AccessModifiers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/kotlin/accessmodifiers/AccessModifiers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifiers/src/com/Classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/Classes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

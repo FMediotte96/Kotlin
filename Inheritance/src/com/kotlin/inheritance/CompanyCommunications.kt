@@ -50,7 +50,7 @@ object CompanyCommunications {
     internal fun getCopyrightLine() = "Copyright \u00A9 $currentYear Our Company. All rights reserved."
 }
 
-//In Kotlin the keyword 'static' so we cannot call functions and public static members, within classes
+//In Kotlin the keyword 'static' doesn't exists so we cannot call functions and public static members, within classes
 //without having an instance of the class
 class SomeClass private constructor(val someString: String) {
 

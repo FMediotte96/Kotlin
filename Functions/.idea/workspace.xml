@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d669b02-8e17-437b-8db9-26b7160846cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge3/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge3/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge3/Challenge3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge3/src/com/java/code/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge3/src/com/java/code/MountainBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge3/src/com/java/code/RoadBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge3/src/com/kotlin/code/OOChallenge.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Kotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Kotlin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifiers/src/com/Classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/Classes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Datatypes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Datatypes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/com/kotlin/inheritance/CompanyCommunications.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/com/kotlin/inheritance/CompanyCommunications.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Despegar/vikiRepo/viki" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Inheritance" />
   </component>
   <component name="RunManager">
     <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
