@@ -22,7 +22,7 @@ fun main() {
     val mountainBike3 = KotlinMountainBike("Blue", 10, 10, 10)
     mountainBike3.printDescription()
 
-    KotlinMountainBike.availableColors.forEach{ println(it) }
+    KotlinMountainBike.availableColors.forEach { println(it) }
 
 }
 
