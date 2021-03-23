@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f15b6efc-88b7-4435-9f34-392a237b4f33" name="Default Changelist" comment="" />
+    <list default="true" id="35211852-f78d-4c53-aff1-b13834994b4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LambdaExpressions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LambdaExpressions/META-INF/LambdaExpressions.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/lambdas/Lambdas.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Challenges/Challenge4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Challenges/Challenge4/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +26,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1q7QXwkM5MVbvjkdRSTVugBFr6d" />
+  <component name="ProjectId" id="1q8fgIhiMVTpE4kWlvDd8DOwNOX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,14 +40,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="Section6ChallengeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Challenge4" />
+    <configuration name="LambdasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="LambdaExpressions" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin.challenge.Section6ChallengeKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.lambdas.LambdasKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -44,27 +55,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Section6ChallengeKt" />
+        <item itemvalue="Application.LambdasKt" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f15b6efc-88b7-4435-9f34-392a237b4f33" name="Default Changelist" comment="" />
-      <created>1616428192412</created>
+      <changelist id="35211852-f78d-4c53-aff1-b13834994b4a" name="Default Changelist" comment="" />
+      <created>1616466249789</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1616428192412</updated>
+      <updated>1616466249789</updated>
     </task>
-    <task id="LOCAL-00001" summary="Challenge4 - Loops, If and When Expressions">
-      <created>1616430371906</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1616430371906</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,9 +80,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Challenge4 - Loops, If and When Expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Challenge4 - Loops, If and When Expressions" />
   </component>
 </project>
