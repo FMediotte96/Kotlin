@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35211852-f78d-4c53-aff1-b13834994b4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LambdaExpressions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LambdaExpressions/META-INF/LambdaExpressions.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/lambdas/Lambdas.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenges/Challenge4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Challenges/Challenge4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/lambdas/LambdasWithReceivers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -38,8 +31,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LambdasWithReceiversKt">
     <configuration name="LambdasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="LambdaExpressions" />
       <option name="VM_PARAMETERS" />
@@ -53,8 +47,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LambdasWithReceiversKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="LambdaExpressions" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.lambdas.LambdasWithReceiversKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdasWithReceiversKt" />
         <item itemvalue="Application.LambdasKt" />
       </list>
     </recent_temporary>
@@ -68,6 +76,14 @@
       <option name="presentableId" value="Default" />
       <updated>1616466249789</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lambdas Expressions">
+      <created>1616471455871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616471455871</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +96,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lambdas Expressions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambdas Expressions" />
   </component>
 </project>
