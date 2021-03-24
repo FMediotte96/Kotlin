@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35211852-f78d-4c53-aff1-b13834994b4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/lambdas/LambdasWithReceivers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/com/kotlin/collections/Collections.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616471455871</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LambdasWithReceivers&#10;&#10;Learning about the with and apply statement, and how to label lambda blocks">
+      <created>1616548915819</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616548915819</updated>
+    </task>
+    <task id="LOCAL-00003" summary="LambdasWithReceivers&#10;&#10;Learning about the with and apply statement, and how to label lambda blocks">
+      <created>1616548951250</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616548951250</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lambdas Expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambdas Expressions" />
+    <MESSAGE value="LambdasWithReceivers&#10;&#10;Learning about the with and apply statement, and how to label lambda blocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="LambdasWithReceivers&#10;&#10;Learning about the with and apply statement, and how to label lambda blocks" />
   </component>
 </project>
