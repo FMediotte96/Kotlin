@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35211852-f78d-4c53-aff1-b13834994b4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Collections/src/com/kotlin/collections/List.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collections/out/production/Collections/META-INF/Collections.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/out/production/Collections/META-INF/Collections.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
