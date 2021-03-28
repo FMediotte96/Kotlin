@@ -15,5 +15,9 @@ public class JavaGenerics {
 
         List list1 = new ArrayList<>();
         list.add("Goodbye");
+
+        //boolean b = list instanceof List<String>; this not work
+        //Generics are a compile time feature
+        boolean b = list instanceof List;
     }
 }
