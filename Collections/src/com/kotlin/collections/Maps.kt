@@ -21,10 +21,9 @@ fun main() {
     //mutableMap.put("Mary's car", Car("red", "Corvette", 1965))
     mutableMap["Mary's car"] = Car("red", "Corvette", 1965) //Kotlin suggest this
 
-    //In both cases the compiler instances a LinkedHasMap, because Kotlin likes to have HashMap
+    //In both cases the compiler instances a LinkedHashMap, because Kotlin likes to have HashMap
     //cause they have a predictable iteration order and Kotlin wants this so that you can easily convert
     //from a list to a set to a map. We can instance a HashMap using hashMapOf
-
 
     val pair = Pair(10, "ten")
     //val firstValue = pair.first
