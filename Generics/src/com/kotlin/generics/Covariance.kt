@@ -33,7 +33,7 @@ class Rose : Flower() {
 
 }
 
-/*We make Garden covariant adding the out key word. Now that the class is covariant we're restricted
+/*We make Garden covariant adding the out keyword. Now that the class is covariant we're restricted
 with what we can do with it and doesn't sound like immutable collections as well, we restricted what you
 can do with an immutable collection. We can read them but we can't add anything to them.
 You can only use a covariance class in what is called the out position.

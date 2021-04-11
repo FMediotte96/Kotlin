@@ -3,7 +3,7 @@ package com.kotlin.generics
 import java.math.BigDecimal
 
 fun main() {
-    //we include BigDecimal between <> because we have to tall the compiler what type we want back
+    //we include BigDecimal between <> because we have to tell the compiler what type we want back
     //when you have a T in the return type
     val mixedList: List<Any> = listOf("string", 1, BigDecimal(22.5), "fall", BigDecimal(-5938.393849))
     val bigDecimalOnly = getElementsOfType<String>(mixedList)
