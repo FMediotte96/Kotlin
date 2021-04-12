@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d96ec3a-9925-4172-a3ca-4b7254f835ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOKotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IOKotlin/META-INF/IOKotlin.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/io/FileReading.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testfile.txt" afterDir="false" />
+    <list default="true" id="1d96ec3a-9925-4172-a3ca-4b7254f835ab" name="Default Changelist" comment="File I/O: Reading text files">
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/io/BinaryIO.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/io/WalkFileTree.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testfile.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IOKotlin/META-INF/IOKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IOKotlin/META-INF/IOKotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +36,27 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WalkFileTreeKt">
+    <configuration name="BinaryIOKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="IOKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.io.BinaryIOKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FileReadingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="IOKotlin" />
       <option name="VM_PARAMETERS" />
@@ -56,8 +70,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WalkFileTreeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="IOKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.io.WalkFileTreeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WalkFileTreeKt" />
+        <item itemvalue="Application.BinaryIOKt" />
         <item itemvalue="Application.FileReadingKt" />
       </list>
     </recent_temporary>
@@ -71,6 +100,14 @@
       <option name="presentableId" value="Default" />
       <updated>1618171498101</updated>
     </task>
+    <task id="LOCAL-00001" summary="File I/O: Reading text files">
+      <created>1618172720517</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618172720517</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,10 +115,37 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="File I/O: Reading text files" />
+    <option name="LAST_COMMIT_MESSAGE" value="File I/O: Reading text files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/kotlin/io/BinaryIO.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
