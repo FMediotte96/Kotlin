@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d96ec3a-9925-4172-a3ca-4b7254f835ab" name="Default Changelist" comment="File I/O: Reading Binary Files and Walking the File Tree">
-      <change afterPath="$PROJECT_DIR$/../JavaInteroperability/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaInteroperability/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaInteroperability/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaInteroperability/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaInteroperability/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaInteroperability/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaInteroperability/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaInteroperability/JavaInteroperability.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaInteroperability/out/production/JavaInteroperability/META-INF/JavaInteroperability.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaInteroperability/src/com/calljava/CallJava.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaInteroperability/src/com/javacode/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1d96ec3a-9925-4172-a3ca-4b7254f835ab" name="Default Changelist" comment="File I/O: Reading Binary Files and Walking the File Tree" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
