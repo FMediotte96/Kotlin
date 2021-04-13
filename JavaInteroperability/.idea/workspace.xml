@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="543781eb-88af-4a41-9ecf-3de9a53bacc2" name="Default Changelist" comment="Java Interoperability: Calling Java from Kotlin" />
+    <list default="true" id="543781eb-88af-4a41-9ecf-3de9a53bacc2" name="Default Changelist" comment="Java Interoperability: Calling Java from Kotlin">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
