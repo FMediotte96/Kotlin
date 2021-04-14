@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4f12ee3-d8b2-4601-aea8-eb83b84bb028" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/InputOutput.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/directions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/directions_big.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/locations.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/locations_big.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/src/com/timbuchalka/KotlinLocation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/src/com/timbuchalka/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/src/com/timbuchalka/Locations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/src/com/timbuchalka/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextAdventureKotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directions_big.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/locations_big.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/TextAdventureKotlin/META-INF/TextAdventureKotlin.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/textadventure/Location.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/textadventure/Locations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/textadventure/Main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="a4f12ee3-d8b2-4601-aea8-eb83b84bb028" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +20,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -131,8 +95,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -383,6 +349,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
