@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="543781eb-88af-4a41-9ecf-3de9a53bacc2" name="Default Changelist" comment="Java Interoperability: Calling Java from Kotlin">
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge6/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge6/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge6/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge6/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge6/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge6/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge6/Challenge6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge6/src/challenge9/Challenge9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge6/src/challenge9/Challenge9.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge6/src/com/javacode/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Challenges/Challenge6/src/com/kotlincode/KotlinCode.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="543781eb-88af-4a41-9ecf-3de9a53bacc2" name="Default Changelist" comment="Java Interoperability: Calling Java from Kotlin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
