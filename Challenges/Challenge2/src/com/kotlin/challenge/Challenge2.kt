@@ -32,7 +32,7 @@ fun main() {
     // 7. Now use the let function to
     // (a) lowercase the string
     // (b) replace "am" with "am not" in the result
-     ?.let { println(it.toLowerCase().replace("am", "am not")) }
+     x?.let { println(it.toLowerCase().replace("am", "am not")) }
 
     // 8. You're really, really confident that the variable myNonNullVariable can't contain null
     // Change the following code to assert that myNonNullVariable isn't null
